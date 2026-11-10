@@ -155,10 +155,3 @@ Pada `ZONES`, isi **jarak**, bukan bobot. Contoh `5;10;15` berarti zona 0–5, 5
 - Luo, W., & Qi, Y. (2009). An enhanced two-step floating catchment area (E2SFCA) method for measuring spatial accessibility to primary care physicians. *Health & Place*, 15(4), 1100–1107. (E2SFCA)
 - *JMIR Formative Research* 2024
 
-## Lisensi
-
--
-
-## Penulis
-
-Tedy Imanuel (https://www.linkedin.com/in/tedy-selan/)
