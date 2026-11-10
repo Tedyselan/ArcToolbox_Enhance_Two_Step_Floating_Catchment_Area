@@ -157,8 +157,8 @@ Pada `ZONES`, isi **jarak**, bukan bobot. Contoh `5;10;15` berarti zona 0–5, 5
 
 ## Lisensi
 
-_Tentukan lisensi (mis. MIT) dan tambahkan berkas `LICENSE`._
+-
 
 ## Penulis
 
-_Isi nama dan kontak._
+Tedy Imanuel (https://www.linkedin.com/in/tedy-selan/)
